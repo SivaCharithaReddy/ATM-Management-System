@@ -49,7 +49,7 @@ SELECT * FROM accounts;
 ## 🚀 How to Run
 
 ### 1. **Clone the repository**
-git clone https://github.com/your-username/atm-system-java.git
+git clone https://github.com/SivaCharithaReddy/ATM-Management-System-java.git
 cd atm-system-java
 
 ### 2. **Configure Database Connection**
@@ -86,5 +86,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-* **Your Name**
-  [GitHub Profile](https://github.com/your-username)
+B.Siva Charitha Reddy
+  [GitHub Profile](https://github.com/SivaCharithaReddy)
